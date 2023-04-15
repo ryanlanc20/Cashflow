@@ -1,24 +1,34 @@
-import logo from './logo.svg';
-import './App.css';
+import { createContext, useState} from "react";
+
+// Component imports
+import Header from './components/Header.js';
+import Model from './components/containers/Model';
+import SummaryBar from './components/SummaryBar';
+
+export let ModelsContext = createContext();
 
 function App() {
+
+  // Model summaries
+  const [modelsContext,setModelsContext] = useState({
+      "total_income": 0,
+      "total_expenses": 0,
+      "cashflow": 0
+  });
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <div className="App">
+          <Header/>
+          <ModelsContext.Provider value={[modelsContext,setModelsContext]}>
+              <SummaryBar/>
+              <div className="container-md">
+                  <Model modelName="Income"/>
+                  <Model modelName="Expenses"/>
+              </div>
+          </ModelsContext.Provider>
+      </div>
+    </>
   );
 }
 

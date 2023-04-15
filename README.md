@@ -1,6 +1,6 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Cashflow
+Cashflow is a tool which allows people to calculate financial surpluses.
+It also provides charts to illustrate the contributions of monetary sources.
 
 ## Available Scripts
 
