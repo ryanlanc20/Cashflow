@@ -1,15 +1,12 @@
 {
   "files": {
-    "main.css": "/Cashflow/static/css/main.23580fb7.css",
-    "main.js": "/Cashflow/static/js/main.362a1c11.js",
-    "static/js/787.07f9ba44.chunk.js": "/Cashflow/static/js/787.07f9ba44.chunk.js",
-    "index.html": "/Cashflow/index.html",
-    "main.23580fb7.css.map": "/Cashflow/static/css/main.23580fb7.css.map",
-    "main.362a1c11.js.map": "/Cashflow/static/js/main.362a1c11.js.map",
-    "787.07f9ba44.chunk.js.map": "/Cashflow/static/js/787.07f9ba44.chunk.js.map"
+    "main.css": "/Cashflow/static/css/main.d8651493.css",
+    "main.js": "/Cashflow/static/js/main.48254a3f.js",
+    "static/js/27.3f33141a.chunk.js": "/Cashflow/static/js/27.3f33141a.chunk.js",
+    "index.html": "/Cashflow/index.html"
   },
   "entrypoints": [
-    "static/css/main.23580fb7.css",
-    "static/js/main.362a1c11.js"
+    "static/css/main.d8651493.css",
+    "static/js/main.48254a3f.js"
   ]
 }
