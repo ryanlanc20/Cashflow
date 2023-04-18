@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/cashflow/static/css/main.23580fb7.css",
-    "main.js": "/cashflow/static/js/main.f8876ac5.js",
-    "static/js/787.07f9ba44.chunk.js": "/cashflow/static/js/787.07f9ba44.chunk.js",
-    "index.html": "/cashflow/index.html",
-    "main.23580fb7.css.map": "/cashflow/static/css/main.23580fb7.css.map",
-    "main.f8876ac5.js.map": "/cashflow/static/js/main.f8876ac5.js.map",
-    "787.07f9ba44.chunk.js.map": "/cashflow/static/js/787.07f9ba44.chunk.js.map"
+    "main.css": "/Cashflow/static/css/main.23580fb7.css",
+    "main.js": "/Cashflow/static/js/main.362a1c11.js",
+    "static/js/787.07f9ba44.chunk.js": "/Cashflow/static/js/787.07f9ba44.chunk.js",
+    "index.html": "/Cashflow/index.html",
+    "main.23580fb7.css.map": "/Cashflow/static/css/main.23580fb7.css.map",
+    "main.362a1c11.js.map": "/Cashflow/static/js/main.362a1c11.js.map",
+    "787.07f9ba44.chunk.js.map": "/Cashflow/static/js/787.07f9ba44.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.23580fb7.css",
-    "static/js/main.f8876ac5.js"
+    "static/js/main.362a1c11.js"
   ]
 }
