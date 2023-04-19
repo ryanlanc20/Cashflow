@@ -2,6 +2,8 @@
 Cashflow is a tool which allows people to calculate financial surpluses.
 It also provides charts to illustrate the contributions of monetary sources.
 
+Live demo: https://ryanlanc20.github.io/Cashflow/
+
 ## Screenshots
 
 ### Defining income sources
