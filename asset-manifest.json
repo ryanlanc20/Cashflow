@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/Cashflow/static/css/main.d8651493.css",
-    "main.js": "/Cashflow/static/js/main.48254a3f.js",
+    "main.js": "/Cashflow/static/js/main.6193d7a0.js",
     "static/js/27.3f33141a.chunk.js": "/Cashflow/static/js/27.3f33141a.chunk.js",
     "index.html": "/Cashflow/index.html"
   },
   "entrypoints": [
     "static/css/main.d8651493.css",
-    "static/js/main.48254a3f.js"
+    "static/js/main.6193d7a0.js"
   ]
 }
